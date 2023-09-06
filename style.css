@@ -1,0 +1,38 @@
+body {
+    padding: 0.5rem;
+}
+
+label {
+    margin: 1rem;
+}
+
+input {
+    margin-bottom: 2rem;
+}
+
+button {
+    margin: 1rem;
+}
+
+textarea {
+    margin: 1rem;
+}
+
+table {
+    margin: 1rem;
+}
+
+.titles {
+    font-size: 15px;
+    padding: auto;
+}
+
+th {
+    text-align: left;
+    width: 15rem;
+}
+
+.infos {
+    font-size: 14px;
+
+}
